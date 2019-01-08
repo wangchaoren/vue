@@ -1,4 +1,4 @@
-**demo**: [https://taylorchen709.github.io/vue-admin/](https://taylorchen709.github.io/vue-admin/)
+<!-- **demo**: [https://taylorchen709.github.io/vue-admin/](https://taylorchen709.github.io/vue-admin/)
 
 # To start
 
@@ -54,4 +54,4 @@ You can change theme by
 Modern browsers and IE 10+.
 
 # License
-[MIT](http://opensource.org/licenses/MIT)
+[MIT](http://opensource.org/licenses/MIT) -->
